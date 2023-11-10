@@ -4,6 +4,10 @@
 ```bash
 pip install fastapi[all]
 ```
+
+<pre><code class"python">
+print("Hello World")
+</code></pre>
 With the all option, you will install even the optional dependancies that you may or may not need.
 
 ## Introduction
