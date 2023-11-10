@@ -2,15 +2,10 @@
 
 ## INSTALLATION
 
-<pre><code class="bash">
+```bash
 pip install fastapi[all]
-</code></pre>
+```
 
-<pre><code class="python">
-print("Hello World")
-def func():
-    pass
-</code></pre>
 With the all option, you will install even the optional dependancies that you may or may not need.
 
 ## Introduction
