@@ -1,9 +1,10 @@
 # API DEVELOPMENT WITH FASTAPI
 
 ## INSTALLATION
-```bash
+
+<pre><code class="bash">
 pip install fastapi[all]
-```
+</code></pre>
 
 <pre><code class"python">
 print("Hello World")
